@@ -87,8 +87,9 @@ h6 a {
 
 /* === 2.1 Headings === */
 
+
+
 h1,
-title,
 h2,
 h3,
 h4,
@@ -102,6 +103,12 @@ h6 {
 }
 
 title{
+    font-size: 36px;
+    line-height: 52px;
+    font-weight: 700;
+}
+
+h11{
     font-size: 36px;
     line-height: 52px;
     font-weight: 700;
